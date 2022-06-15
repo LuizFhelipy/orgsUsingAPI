@@ -65,4 +65,3 @@ Espero que você utilize ao máximo deste projeto para se aprimorar! E se quiser
 [expo]: https://docs.expo.dev/
 [rn]: https://facebook.github.io/react-native/
 [yarn]: https://yarnpkg.com/
-# orgsUsingAPI
